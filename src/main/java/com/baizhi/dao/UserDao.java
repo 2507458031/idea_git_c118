@@ -1,10 +1,11 @@
-package com.baizhi;
+package com.baizhi.dao;
 
 /**
  * Created by Administrator on 2018/7/3.
  */
-public class TestGit {
+public class UserDao {
     public static void main(String[] args) {
-        System.out.println("成功！！");
+        System.out.println("Hello");
     }
+
 }
